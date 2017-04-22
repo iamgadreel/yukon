@@ -1,3 +1,8 @@
+/**
+ * @author Hasun Rathnayake
+ * Date : 22/04/2017
+ * Filter class to support the CORS features
+ */
 package com.gadreel.lecture.schedule.cors.filter;
 
 import java.io.IOException;
